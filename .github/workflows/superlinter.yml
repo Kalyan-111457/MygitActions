@@ -1,4 +1,4 @@
-]name: Run Super-Linter
+name: Run Super-Linter
 
 on: 
   push:
